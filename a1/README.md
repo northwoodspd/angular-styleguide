@@ -1,3 +1,5 @@
+_Until we talk about our processes for adopting rules, I'll put a ✅ next to the rules we have adopted. After we figure things out we can change that, if we want._
+
 # Angular 1 Style Guide
 
 ## Angular Team Endorsed

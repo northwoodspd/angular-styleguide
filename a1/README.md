@@ -38,9 +38,9 @@ While this guide explains the *what*, *why* and *how*, I find it helpful to see 
   1. [Manual Annotating for Dependency Injection](#manual-annotating-for-dependency-injection)
   1. [Minification and Annotation](#minification-and-annotation)
   1. [Exception Handling](#exception-handling)
-  1. ✅ [Naming](#naming)
-  1. ✅ [Application Structure LIFT Principle](#application-structure-lift-principle)
-  1. ✅ [Application Structure](#application-structure)
+  1. [Naming](#naming)
+  1. [Application Structure LIFT Principle](#application-structure-lift-principle)
+  1. [Application Structure](#application-structure)
   1. [Modularity](#modularity)
   1. [Startup Logic](#startup-logic)
   1. [Angular $ Wrapper Services](#angular--wrapper-services)
@@ -1960,7 +1960,7 @@ While this guide explains the *what*, *why* and *how*, I find it helpful to see 
 
 **[Back to top](#table-of-contents)**
 
-## Naming ✅
+## Naming
 
 ### Naming Guidelines
 ###### [Style [Y120](#style-y120)]
@@ -2194,7 +2194,7 @@ While this guide explains the *what*, *why* and *how*, I find it helpful to see 
 
 **[Back to top](#table-of-contents)**
 
-## Application Structure LIFT Principle ✅
+## Application Structure LIFT Principle
 ### LIFT
 ###### [Style [Y140](#style-y140)]
 
@@ -2257,7 +2257,7 @@ While this guide explains the *what*, *why* and *how*, I find it helpful to see 
 
 **[Back to top](#table-of-contents)**
 
-## Application Structure ✅
+## Application Structure
 
 ### Overall Guidelines
 ###### [Style [Y150](#style-y150)]

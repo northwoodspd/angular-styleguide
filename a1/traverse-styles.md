@@ -5,7 +5,10 @@
 ### Adopted
 
 1. [File Naming](https://github.com/northwoodspd/angular-styleguide/tree/master/a1#naming)
-2. [Application Structure](https://github.com/northwoodspd/angular-styleguide/tree/master/a1#application-structure)
+1. [Application Structure](https://github.com/northwoodspd/angular-styleguide/tree/master/a1#application-structure)
+1. [Modules](https://github.com/northwoodspd/angular-styleguide/blob/master/a1/README.md#modules)
+1. [IIFE](https://github.com/northwoodspd/angular-styleguide/blob/master/a1/README.md#iife)
+1. [Single Responsibility](https://github.com/northwoodspd/angular-styleguide/blob/master/a1/README.md#single-responsibility)
 
 ### Rejected
 
